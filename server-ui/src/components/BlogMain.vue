@@ -5,7 +5,7 @@
     <p>author=lhy</p>
     <p>
       Git repository:
-      <a href="https://gitee.com/LiamLin-sdu/raspberry-pi-3-server"
+      <a href="https://gitee.com/LiamLin-sdu/raspberry-pi-3-server" target="_blank"
         >https://gitee.com/LiamLin-sdu/raspberry-pi-3-server</a
       >
     </p>
